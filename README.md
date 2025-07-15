@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Libary VI](https://github.com/IannxGusion/app_perpustakaan)
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **PHP**
 
 - 📫 How to reach me **https://github.com/IannxGusion**
 
