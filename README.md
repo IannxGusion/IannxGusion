@@ -11,7 +11,7 @@
 
 ## 👨‍💻 About Me
 
-- 🧑‍💼 **Name:** Rian a.k.a. Iann  
+- 👦 **Name:** Iann  
 - 🌍 **Location:** Indonesia  
 - 🎮 **Hobbies:** Gaming 🎮 | Running 🏃‍♂️ | Music 🎧  
 - 📘 **Learning:** PHP, MySQL, and modern Bootstrap UI  
