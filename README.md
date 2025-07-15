@@ -1,26 +1,69 @@
-<h1 align="center">Hi 👋, I'm Iann</h1>
-<h3 align="center">A passionate Website developer from Indonesia</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/736x/fd/61/d5/fd61d536f23fb47284b3fae61f9ffea4.jpg"><img/>
+<!-- Header: Greeting -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Hi+There+👋;I'm+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+Iann+from+Indonesia;Welcome+to+my+GitHub+Profile!" alt="Typing Animation" />
+</h1>
 
-- 🔭 I’m currently working on [Libary VI](https://github.com/IannxGusion/app_perpustakaan)
-
-- 🌱 I’m currently learning **PHP**
-
-- 📫 How to reach me **https://github.com/IannxGusion**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/rian tv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rian tv" height="30" width="40" /></a>
-<a href="https://instagram.com/ranztsu_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ranztsu_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/iann tv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="iann tv" height="30" width="40" /></a>
-<a href="https://discord.gg/iann_gusion" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="iann_gusion" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="460" alt="Coding Animation">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" 
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iannxgusion&show_icons=true&locale=en&layout=compact" alt="iannxgusion" /></p>
+### 🔍 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iannxgusion&show_icons=true&locale=en" alt="iannxgusion" /></p>
+- 👤 **Name**: Rian  
+- 📍 **Location**: Indonesia  
+- 🎮 **Hobbies**: Gaming 🎮, Running 🏃‍♂️, and Listening to Music 🎧
 
-buat code ini semakin bagus dan tampilan halo nya di perbagus lalu tambahkan animasi coding atau website
+- 🔭 I’m currently working on: [Library VI](https://github.com/IannxGusion/app_perpustakaan)  
+- 🌱 Currently learning: **PHP**, **MySQL**, and modern **Bootstrap UI**  
+- 📫 Reach me via: [GitHub](https://github.com/IannxGusion)
+
+---
+
+### 🎧 Now Playing on Spotify
+
+<p align="center">
+  <a href="https://open.spotify.com/user/31edk7qyf4k4twylp3ckqic5qenu" target="_blank">
+    <img src="https://spotify-now-playing-peach.vercel.app/api/now-playing?user_id=31edk7qyf4k4twylp3ckqic5qenu" alt="Spotify Now Playing" width="450"/>
+  </a>
+</p>
+
+---
+
+### 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://fb.com/rian tv" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://instagram.com/ranztsu_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.youtube.com/c/iann tv" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://discord.gg/iann_gusion" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+</p>
+
+---
+
+### 🧰 Languages and Tools
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
+</p>
+
+---
+
+### 📈 GitHub Stats & Language Usage
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iannxgusion&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=iannxgusion&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats"/>
+</p>
+
+---
+
+> _"Keep learning, keep building, and enjoy every line of code."_ 🚀
